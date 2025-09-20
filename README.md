@@ -7,6 +7,10 @@ The dataset contains property transactions across England and Wales for the year
 
 # Project Overview
 
+This project explores the UK housing market using 2018 property transaction data. Through comprehensive data cleaning, feature engineering, and exploratory analysis, I examined price trends, regional variations, and property type distributions. 
+
+To handle and process multiple large files efficiently, GPU acceleration was used for faster computation. Key insights include first-time buyer affordability, seasonal price trends, and differences between new-build and existing properties. Interactive visualizations such as heatmaps, line charts, and scatter plots highlight patterns and support data-driven decision-making.
+
 The UK housing market is highly dynamic, influenced by economic trends, location, property types, and buyer demographics. This project explores property transaction data from 2018 to understand trends, price variations, and affordability across different property types and regions. The goal is to provide actionable insights for first-time buyers, investors, and policymakers.
 
 
